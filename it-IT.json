@@ -1,0 +1,33 @@
+{
+  "app": {
+    "about": {
+      "description": "Maggiori informazioni su di noi!",
+      "paragraph": "Cosa facciamo",
+      "subtitle": "Scopri di più su di noi",
+      "title": "Chi Siamo"
+    },
+    "description": "Un'app molto semplice per scopi dimostrativi.",
+    "footer": {
+      "cta": "Dai un'occhiata"
+    },
+    "landing_page": {
+      "description": "Benvenuto in questa app demo. Resta un po' e traduci.",
+      "subtitle": "Questa è una demo per Django i18n.",
+      "title": "La mia app demo"
+    },
+    "langs": {
+      "english": "Inglese",
+      "french": "Francese",
+      "german": "Tedesco",
+      "spanish": "Spagnolo"
+    },
+    "services": {
+      "description": "Dai un'occhiata a questi servizi",
+      "title": "Servizi qui"
+    },
+    "subtitle": "App demo i18n",
+    "title": "Demo App"
+  },
+  "autotranslate": "Per favore, traduci questo!",
+  "demo-key": "Questa è una traduzione!"
+}
